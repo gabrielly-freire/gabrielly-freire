@@ -1,40 +1,82 @@
-## Hey, bem-vindo ao meu perfil! 
+# 👋 Hello, welcome to my profile!
 
-Sou Gabrielly Freire, uma entusiasta da área de tecnologia e desenvolvimento de software. **Técnica em Informática** pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, atualmente estou cursando o **Bacharelado em Tecnologia da Informação** pela Universidade Federal do Rio Grande do Norte.
+## 🚀 About Me
 
-Meu interesse pela programação surgiu durante o curso técnico integrado ao ensino médio, quando tive meu primeiro contato com a linguagem **Java** através de um simples "Hello world!". Desde então, fiquei encantada pela área e tenho me dedicado a ela. Tenho uma paixão especial pela linguagem Java e, atualmente, estou focada em aprofundar meus conhecimentos nela, bem como explorar novas tecnologias como o **Spring Boot** e **Angular**.
+I'm **Gabrielly Freire**, an **Informatics Technician** from IFRN and a **Bachelor's student in Information Technology** at UFRN. My journey in programming started with a simple `Hello World!` in Java during high school, and since then, I’ve been passionate about transforming lines of code into real solutions.
 
-### :bar_chart: Minhas estatísticas do GitHub
+- 🌱 Currently diving deeper into: **Spring Boot** and **Angular**  
+- 💡 Interests: Software Architecture | REST APIs | Automated Testing  
+- 🎯 Goal: Contribute to projects that make a difference in people's lives  
 
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielly-freire&theme=cobalt" /></a>
-    <a href="https://github.com/gabrielly-freire/convoychat"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielly-freire&layout=compact&langs_count=8&card_width=320&theme=cobalt" /></a>
-</div>
+<details>
+  <summary style="font-size: 18px; font-weight: bold;">🛠️ Tech Stack</summary>
 
-### :computer: Tecnologias e Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JUnit 5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-DA383E?style=for-the-badge&logo=mockito&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+  <details open>
+    <summary style="font-size: 16px; font-weight: bold;">Backend</summary>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring">
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" alt="Maven">
+  </details>
+  
+  <details open>
+    <summary style="font-size: 16px; font-weight: bold;">Frontend</summary>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  </details>
 
-### :books: Tenho estudado no momento
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+  <details open>
+    <summary style="font-size: 16px; font-weight: bold;">Databases</summary>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  </details>
 
-### :iphone: Contate me
-<div>
-    <a href="mailto:gabylopesfreire@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/gabrielly-freire"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+  <details open>
+    <summary style="font-size: 16px; font-weight: bold;">Testing</summary>
+    <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit5">
+    <img src="https://img.shields.io/badge/Mockito-DA383E?style=flat-square&logo=mockito&logoColor=white" alt="Mockito">
+  </details>
+
+  <details open>
+    <summary style="font-size: 16px; font-weight: bold;">Tools</summary>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
+    <img src="https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  </details>
+
+</details>
+
+<details>
+  <summary style="font-size: 18px; font-weight: bold;">📈 GitHub Analytics</summary>
+  <div align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielly-freire&theme=cobalt" /></a>
+      <a href="https://github.com/gabrielly-freire/convoychat"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielly-freire&layout=compact&langs_count=8&card_width=320&theme=cobalt" /></a>
+  </div>
+</details>
+
+<details>
+  <summary style="font-size: 18px; font-weight: bold;">🌱 Currently Studying</summary>
+  <div align="left">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  </div>
+</details>
+
+<details>
+  <summary style="font-size: 18px; font-weight: bold;">📫 Let's Connect!</summary>
+  <div align="left"> 
+    <a href="mailto:gabylopesfreire@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/gabrielly-freire">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </div>
+</details>
