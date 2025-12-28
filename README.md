@@ -52,13 +52,13 @@ I'm **Gabrielly Freire**, an **Informatics Technician** from IFRN and a **Bachel
 
 </details>
 
-<details>
+<!-- <details>
   <summary style="font-size: 18px; font-weight: bold;">📈 GitHub Analytics</summary>
   <div align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielly-freire&theme=cobalt" /></a>
       <a href="https://github.com/gabrielly-freire/convoychat"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielly-freire&layout=compact&langs_count=8&card_width=320&theme=cobalt" /></a>
   </div>
-</details>
+</details> -->
 
 <details>
   <summary style="font-size: 18px; font-weight: bold;">🌱 Currently Studying</summary>
